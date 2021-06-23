@@ -29,3 +29,7 @@ if [ $n -eq 7 ]
 then
 echo "Saturday"
 fi
+if [ $n -gt 7 ] || [ $n -lt 1 ]
+then
+echo "No such day exists"
+fi
