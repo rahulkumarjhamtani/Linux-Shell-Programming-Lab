@@ -10,4 +10,4 @@ sum=$((sum+num))
 i=$((i+1))
 done
 avg=$(($sum / $n))
-echo $avg
+echo "Average = "$avg
