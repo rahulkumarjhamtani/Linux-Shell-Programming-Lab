@@ -7,7 +7,7 @@ for ((i=0;i<n;i++))
 do
 read arr[$i]
 done
-echo "Elements : "
+echo "Elements with sum : "
 for ((i=0;i<n;i++))
 do
 sum=$((sum+arr[$i]))
