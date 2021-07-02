@@ -2,7 +2,7 @@
 echo "Enter two numbers : "
 read a 
 read b
-temp=$
+temp=$a
 if [ $b -lt $temp ]
 then
 temp=$b
