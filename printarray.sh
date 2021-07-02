@@ -19,6 +19,7 @@ echo ${arr[@]:1}
 
 #length of an array element
 echo ${#arr[0]}
+echo ${#arr[4]}
 echo ${#arr}
 
 # total elements of an array
