@@ -22,5 +22,5 @@ do
             num=$((num-1))
         fi
     done
-    echo
+echo
 done

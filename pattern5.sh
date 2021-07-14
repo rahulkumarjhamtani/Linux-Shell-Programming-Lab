@@ -12,7 +12,7 @@ do
         echo -n $num
         num=$((num+1))
     done
-    echo
+echo
 done
 for ((i=n-1;i>=1;i--))
 do
@@ -26,6 +26,6 @@ do
         echo -n $num
         num=$((num+1))
     done
-    echo
+echo
 done
 

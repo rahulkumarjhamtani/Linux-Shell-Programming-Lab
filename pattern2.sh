@@ -8,6 +8,6 @@ do
     echo -n $num
     num=$((num + 1))
   done
-  num=1
-  echo
+num=1
+echo
 done
