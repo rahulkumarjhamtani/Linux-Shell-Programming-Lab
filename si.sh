@@ -1,4 +1,4 @@
-echo "Simple Interest";
+echo "Simple Interest => ";
 
 echo "Principle = ";
 read p;
@@ -10,4 +10,4 @@ echo "Time = ";
 read t;
 
 si=`expr $p \* $r \* $t / 100`;
-echo "SI = "$si;
+echo "Simple Interest = "$si;
